@@ -17,7 +17,7 @@
   <!-- https://github.com/tandpfun/skill-icons -->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,kotlin,flutter,cpp,cs,dotnet,py,java,docker,vscode,git,github&perline=4" />
+      <img src="https://skillicons.dev/icons?i=nodejs,ts,py,flutter,dart,aws,firebase,docker,git,githubactions&perline=5" />
     </a>
   </p>
 
